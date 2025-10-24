@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Akshay Babu</h1>
 <h3 align="center">Data Science and AI/ML enthusiast</h3>
 
-- 🔭 I’m currently working on [Bike Buyers Prediction](https://github.com/Fuhrerx/Bike-Buyers-Prediction)
+- 🔭 This is a project i've worked on called [Bike Buyers Prediction](https://github.com/Fuhrerx/Bike-Buyers-Prediction)
 
-- 🌱 I’m currently learning **Deep Learning and Neural Networks**
+- 🌱 I’ve learned **Machine Learning and Python** thanks to this project.
 
 - 📫 How to reach me **akshaysureshbabu200@gmail.com**
 
