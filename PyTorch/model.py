@@ -1,9 +1,12 @@
 import pandas as pd
 import numpy as np
 import torch
+import optuna as optuna
 import torch.nn as nn
+from torch.utils.data import DataLoader
 from sklearn.preprocessing import StandardScaler
 from sklearn.model_selection import train_test_split
+from sklearn.datasets import make_classification
 
 df = pd.read_excel(r"C:\Portfolio-Projects\Bike-Buyers-Prediction\excel\Cleaned_Data.xlsx")
 
