@@ -2,3 +2,5 @@
 .env
 # exe
 .exe
+#vscode
+.vscode
