@@ -5,3 +5,9 @@
 /httpRequests/
 # idea
 .idea
+# exe
+.exe
+# env
+.env
+# vscode
+.vscode
